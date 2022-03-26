@@ -1,2 +1,2 @@
-const API_KEY = 'API キーを入力してください';
-const SHEET_ID = 'Google スプレッドシートの Sheet ID を入力してください';
+const API_KEY = AIzaSyAqGrvLJKA8kVdUJUm-ikk4VQINAoNk6wQ;
+const SHEET_ID = 1fUM_QbD9ZIvkXmyfNy2OG5BUBAe2rSucq73r9HTHh-0;
